@@ -32,5 +32,26 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user_mail": "ravindra111223@gmail.com",
+      "user_name": "ravindra",
+      "password": "123456"
+    },
+    {
+      "email": "ravindra111@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "username": "ravi",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "task": "mock"
+    }
   ]
 }
