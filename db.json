@@ -65,11 +65,19 @@
       "gender": "Male"
     },
     {
-      "id": 1,
+      "id": 2,
       "image":"https://cdn-icons-png.flaticon.com/512/616/616554.png",
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "image":"https://cdn-icons-png.flaticon.com/512/616/616554.png",
+      "name": "Tommy",
+      "age": 3,
+      "place": "Pune",
       "gender": "Female"
     }
   ]
