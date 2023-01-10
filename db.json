@@ -53,5 +53,25 @@
       "id": 1,
       "task": "mock"
     }
+
+  ],
+   "dogs": [
+    {
+      "id": 1,
+      "image":"https://cdn-icons-png.flaticon.com/512/616/616554.png",
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "image":"https://cdn-icons-png.flaticon.com/512/616/616554.png",
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
   ]
+  
 }
