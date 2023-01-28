@@ -55,6 +55,12 @@
     }
 
   ],
+  "quizUser":[{
+    "name" : "ravindra",
+    "category" : "sports",
+    "difficulty" : "easy",
+    
+  }]
   "results": [
     {
       "id" : 1,
