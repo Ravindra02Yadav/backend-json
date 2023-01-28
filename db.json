@@ -55,30 +55,136 @@
     }
 
   ],
-   "dogs": [
+  "results": [
     {
-      "id": 1,
-      "image":"https://cdn-icons-png.flaticon.com/512/616/616554.png",
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
+      "id" : 1,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+      "correct_answer": "Clint Eastwood",
+      "incorrect_answers": [
+        "Steve McQueen",
+        "Charles Bronson",
+        "Robert Vaughn"
+      ]
     },
     {
-      "id": 2,
-      "image":"https://cdn-icons-png.flaticon.com/512/616/616554.png",
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
+      "id" : 2,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following movies was not based on a novel by Stephen King? ",
+      "correct_answer": "The Thing",
+      "incorrect_answers": [
+        "Carrie",
+        "Misery",
+        "The Green Mile"
+      ]
     },
     {
-      "id": 3,
-      "image":"https://cdn-icons-png.flaticon.com/512/616/616554.png",
-      "name": "Tommy",
-      "age": 3,
-      "place": "Pune",
-      "gender": "Female"
+      "id" : 3,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+      "correct_answer": "Steven Spielberg",
+      "incorrect_answers": [
+        "Stanley Kubrick",
+        "James Cameron",
+        "Tim Burton"
+      ]
+    },
+    {
+      "id" : 4,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+      "correct_answer": "Oliver Stone",
+      "incorrect_answers": [
+        "Francis Ford Coppola",
+        "Stanley Kubrick",
+        "Michael Cimino"
+      ]
+    },
+    {
+      "id" : 5,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
+      "correct_answer": "Bruce Lee",
+      "incorrect_answers": [
+        "Jackie Chan",
+        "Jet Li",
+        " Yun-Fat Chow"
+      ]
+    },
+    {
+      "id" : 6,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+      "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
+      "incorrect_answers": [
+        "Christopher Nolan",
+        "David Fincher",
+        "Wes Anderson"
+      ]
+    },
+    {
+      "id" : 7,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+      "correct_answer": "BB-8",
+      "incorrect_answers": [
+        "BB-3",
+        "AA-A",
+        "R2-D2"
+      ]
+    },
+    {
+      "id" : 8,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+      "correct_answer": "Boomstick",
+      "incorrect_answers": [
+        "Bloomstick",
+        "Blastbranch",
+        "2-Pump Chump"
+      ]
+    },
+    {
+      "id" : 9,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+      "correct_answer": "Ming Tea",
+      "incorrect_answers": [
+        "Cough Fi",
+        "Spear Mint",
+        "Mister E"
+      ]
+    },
+    {
+      "id" : 10,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+      "correct_answer": "Gordon Shumway",
+      "incorrect_answers": [
+        "Gordon Milipp",
+        "Gordon Foster",
+        "Gordon von Gam"
+      ]
     }
   ]
   
